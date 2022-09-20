@@ -3,7 +3,7 @@
 </h1>
     
 
-<h2>I'm a full stack web dev 👩‍💻, former chef 👩🏻‍🍳 and aspiring salsa dancer 💃</h2>
+I'm a full stack web dev 👩‍💻, former chef 👩🏻‍🍳 and aspiring salsa dancer 💃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
